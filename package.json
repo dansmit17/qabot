@@ -1,0 +1,19 @@
+{
+  "name": "qabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ciscospark": "^1.12.3",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "number": "0.0.1",
+    "request-promise": "^4.2.2"
+  }
+}

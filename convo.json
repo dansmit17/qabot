@@ -1,0 +1,61 @@
+{
+    "100":{
+        "format":"text",
+        "text":"The QA Session has not been initialized.  Would you like to initialize this Space as a QA Space?  Please reply with group to make this the group Space, moderator to make this a moderator Space, or no to decline."
+    },
+
+    "101":{
+        "format":"text",
+        "text":"The QA Session has not been initialized and must be initialized from a group Space.  Please repost your question after the QA session has been initialized."
+    },
+    "102":{
+        "format":"text",
+        "text":"Thanks, I'll enter that as your group Space.  Please type in a name for a new Space to be used as your moderator Space"
+    },
+    "103":{
+        "format":"text",
+        "text":"Thanks, I'll enter that as your moderator Space.  Please type in a name for a new Space to be used as your group Space"
+    },
+    "104":{
+        "format":"text",
+        "text":"Ok, have a great day."
+    },
+    "105":{
+        "format":"text",
+        "text":"I didn't get that.  Please reply with group to make this the group Space, moderator to make this a moderator Space, or no to decline."
+        
+    },
+    "106":{
+        "format":"text",
+        "text":"Welcome to the QA session.  Please do not post directly to this space.  Moderators, please respond to questions in the Moderator's Space.  Users, you can ask a question by clicking the plus sign in the spark client, choosing contact a person and enter this address:  "
+    },
+    "107":{
+        "format":"text",
+        "text":"Welcome to the Moderator Space.  Please respond to all questions in the form of @<botname> <msgnumber> <answer>.   ie @qabot 17 my favorite color is blue."
+    },
+    "108":{
+        "format":"text",
+        "text":"You can upload moderators in file by entering @<botname> moderators in a message with the file, or upload users by entering @<botname> users in a message with the file.  Format the file so that all email addresses are on one line separated by commas ','.  It's ok if the line wraps to the next line."
+    },
+    "201":{
+        "format":"text",
+        "text":"Write Moderator Help Message Later"
+    },
+    "202":{
+        "format":"text",
+        "text":"Your question has been submitted and will appear in the group room when it is answered.  Your question number is "
+    },
+    "203":{
+        "format":"text",
+        "text":"New question from user.\r\n"
+    },
+    "204":{
+        "format":"text",
+        "text":"You're question has been answered\r\n"
+    },
+
+    "copy":{
+        "format":"",
+        "text":""
+    }
+}
