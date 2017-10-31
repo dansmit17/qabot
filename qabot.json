@@ -1,7 +1,0 @@
-{
-    "token":"NDA4MDk0YTktZGE2MC00NDM3LTkwNDEtY2Q4NzA4NDRlN2Y2MDA5NjQ1MDEtNzM4",
-    "botemail":"qabot@sparkbot.io", 
-    "targetUrl":"https://402c4e6d.ngrok.io", 
-    "webServerPort":4000,
-    "botName":"qabot"
-}
